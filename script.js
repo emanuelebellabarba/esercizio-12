@@ -1,4 +1,4 @@
-function () { 
+function elimina () { 
     document.querySelector('.blog-sidebar div:last-child li:nth-of-type(2)').remove();
     }
 
