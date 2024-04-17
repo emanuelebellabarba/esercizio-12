@@ -1,4 +1,4 @@
-window.onload = function () {
+function () { 
     document.querySelector('.blog-sidebar div:last-child li:nth-of-type(2)').remove();
     }
 
